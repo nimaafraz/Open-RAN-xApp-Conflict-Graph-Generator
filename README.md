@@ -28,6 +28,7 @@ The script will produce a visual graph output that illustrates the xApps conflic
 
 ## Input Data Format
 The input data should be structured in a specific format for the script to process correctly. Ensure that you have a CSV or a similar data file that contains the following columns:
+
 ![image](https://github.com/nimaafraz/Open-RAN-xApp-Conflict-Graph-Generator/assets/10645821/efd78f76-086a-4e68-b106-6946986217cc)
 
 **Name**: Name of the xApp
