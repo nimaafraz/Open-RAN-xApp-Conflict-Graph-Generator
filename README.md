@@ -21,6 +21,7 @@ After installing Python, you can install the required libraries using pip:
 
 ```bash
 pip install networkx matplotlib pandas
+```
 The script will produce a visual graph output that illustrates the xApps conflicts within the Open-RAN network.
 
 ## Input Data Format
